@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         print("1234")
         print("goodsome")
         print("ggg")
+        print("read me 리드미")
     }
 
 
